@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CadastroPessoas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|c:\\users\\pc\\source\\repos\\cadastropessoas\\cadastropessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\pc\\source\\repos\\CadastroPessoas\\cadastropessoas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\pc\\source\\repos\\CadastroPessoas\\cadastropessoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\pc\\source\\repos\\CadastroPessoas\\cadastropessoas\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\pc\\source\\repos\\CadastroPessoas\\cadastropessoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|c:\\users\\pc\\source\\repos\\cadastropessoas\\cadastropessoas\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\pc\\source\\repos\\CadastroPessoas\\cadastropessoas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\pc\\source\\repos\\CadastroPessoas\\cadastropessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9925F-D841-4135-BC2C-A0119C6259A3}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,18 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CadastroPessoas\\CadastroPessoas\\Gerente.cs",
+              "RelativeDocumentMoniker": "CadastroPessoas\\Gerente.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CadastroPessoas\\CadastroPessoas\\Gerente.cs",
+              "RelativeToolTip": "CadastroPessoas\\Gerente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:18:41.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CadastroPessoas\\CadastroPessoas\\Funcionario.cs",
               "RelativeDocumentMoniker": "CadastroPessoas\\Funcionario.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CadastroPessoas\\CadastroPessoas\\Funcionario.cs",
               "RelativeToolTip": "CadastroPessoas\\Funcionario.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBgAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T05:23:42.768Z"
+              "WhenOpened": "2026-10-24T05:23:42.768Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CadastroPessoas\\CadastroPessoas\\Cliente.cs",
               "RelativeDocumentMoniker": "CadastroPessoas\\Cliente.cs",
@@ -58,28 +76,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CadastroPessoas\\CadastroPessoas\\Pessoa.cs",
               "RelativeDocumentMoniker": "CadastroPessoas\\Pessoa.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CadastroPessoas\\CadastroPessoas\\Pessoa.cs",
               "RelativeToolTip": "CadastroPessoas\\Pessoa.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T04:57:11.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-24T04:57:11.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CadastroPessoas\\CadastroPessoas\\Program.cs",
               "RelativeDocumentMoniker": "CadastroPessoas\\Program.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CadastroPessoas\\CadastroPessoas\\Program.cs",
               "RelativeToolTip": "CadastroPessoas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T04:37:44.916Z"
+              "WhenOpened": "2026-10-24T04:37:44.916Z",
+              "EditorCaption": ""
             }
           ]
         }
