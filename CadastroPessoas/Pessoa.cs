@@ -16,5 +16,11 @@ namespace CadastroPessoas
             Console.WriteLine("Nome: "+Nome);
             Console.WriteLine("Idade: "+Idade);
         }
+
+        public Pessoa(string nome, int idade)
+        {
+            Nome = nome;
+            Idade = idade;
+        }
     }
 }

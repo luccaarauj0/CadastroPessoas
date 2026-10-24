@@ -21,5 +21,10 @@ namespace CadastroPessoas
             Console.WriteLine("Bônus: " + CalcularBonus());
             Apresentar();
         }
+
+        public Funcionario(string nome, int idade, decimal salario) : base(nome, idade)
+        {
+            Salario=salario;
+        }
     }
 }
